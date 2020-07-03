@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "554939215420",
+    "firebase_url": "https://rapnews-f4de0.firebaseio.com",
+    "project_id": "rapnews-f4de0",
+    "storage_bucket": "rapnews-f4de0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554939215420:android:8e9903ca46f1dcc8641d39",
+        "android_client_info": {
+          "package_name": "com.example.news_app_api"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554939215420-7fuhrb0uhb7iq9snea5l2v5ksn6fnkhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_RQ3aseCpOzmllcSygkTAr_h8jiQaJ1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554939215420-7fuhrb0uhb7iq9snea5l2v5ksn6fnkhn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
